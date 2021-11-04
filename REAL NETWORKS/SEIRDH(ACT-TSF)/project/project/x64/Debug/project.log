@@ -1,0 +1,9 @@
+﻿  epidemic.c
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\REAL NETWORKS\SEIRDH(ACT-TSF)\project\project\epidemic.c(18,25): warning C4013: “NeighborOfNode”未定义；假设外部返回 int
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\REAL NETWORKS\SEIRDH(ACT-TSF)\project\project\epidemic.c(26,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  main.c
+  model.c
+  neighbor.c
+  sort.c
+  正在生成代码...
+  project.vcxproj -> E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\REAL NETWORKS\SEIRDH(ACT-TSF)\project\x64\Debug\project.exe

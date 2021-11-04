@@ -1,0 +1,28 @@
+F:\null阈值分析\Project1\Debug\Project1.exe
+F:\null阈值分析\Project1\Debug\Project1.pdb
+F:\随机游走阈值验证\gamma2.2\null阈值分析\Project1\Debug\Project1.exe
+F:\随机游走阈值验证\gamma2.2\null阈值分析\Project1\Debug\Project1.pdb
+F:\随机游走阈值验证\gamma2.2T15\null阈值分析\Project1\Debug\Project1.exe
+F:\随机游走阈值验证\gamma2.2T15\null阈值分析\Project1\Debug\Project1.pdb
+C:\Users\Sfer\Desktop\null阈值分析（2）\Project1\Debug\Project1.exe
+C:\Users\Sfer\Desktop\null阈值分析（2）\Project1\Debug\Project1.pdb
+C:\Users\Sfer\Desktop\SEIRD\Project1\Debug\Project1.exe
+C:\Users\Sfer\Desktop\SEIRD\Project1\Debug\Project1.pdb
+E:\实验结果\SEIRD\Project1\Debug\Project1.exe
+E:\实验结果\SEIRD\Project1\Debug\Project1.pdb
+F:\电脑\实验结果\SEIRD\Project1\Debug\Project1.exe
+F:\电脑\实验结果\SEIRD\Project1\Debug\Project1.pdb
+F:\工作\SEIRDH\接触和追踪代码\接触追踪实验代码（C）\实验结果\SEIRD\Project1\Debug\Project1.exe
+F:\工作\SEIRDH\接触和追踪代码\接触追踪实验代码（C）\实验结果\SEIRD\Project1\Debug\Project1.pdb
+C:\Users\lenovo\Desktop\Impacts of detection and contact tracing on the epidemic spread in time-varying networks\ARTIFICIAL NETWORKS\Exposed individuals have no infected ability\SEIRD\Project1\Debug\Project1.exe
+C:\Users\lenovo\Desktop\Impacts of detection and contact tracing on the epidemic spread in time-varying networks\ARTIFICIAL NETWORKS\Exposed individuals have no infected ability\SEIRD\Project1\Debug\Project1.pdb
+F:\近期工作备份\Impacts of detection and contact tracing on the epidemic spread in time-varying networks\ARTIFICIAL NETWORKS\Exposed individuals have no infected ability\SEIRD\Project1\Debug\Project1.exe
+F:\近期工作备份\Impacts of detection and contact tracing on the epidemic spread in time-varying networks\ARTIFICIAL NETWORKS\Exposed individuals have no infected ability\SEIRD\Project1\Debug\Project1.pdb
+E:\专业\博士汇报\SEIR（contact tracing）\论文修改版\source code\ARTIFICIAL NETWORKS\Exposed individuals have no infected ability\SEIRD\Project1\Debug\Project1.exe
+E:\专业\博士汇报\SEIR（contact tracing）\论文修改版\source code\ARTIFICIAL NETWORKS\Exposed individuals have no infected ability\SEIRD\Project1\Debug\Project1.pdb
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have no infected ability\SEIRD\Project1\Debug\Project1.exe
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have no infected ability\SEIRD\Project1\Debug\Project1.pdb
+C:\Users\lenovo\Desktop\论文最终版材料\source code\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have no infected ability\SEIRD\Project1\Debug\Project1.exe
+C:\Users\lenovo\Desktop\论文最终版材料\source code\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have no infected ability\SEIRD\Project1\Debug\Project1.pdb
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have no infected ability\SEIRD\SEIRD\Project1\Debug\Project1.exe
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have no infected ability\SEIRD\SEIRD\Project1\Debug\Project1.pdb

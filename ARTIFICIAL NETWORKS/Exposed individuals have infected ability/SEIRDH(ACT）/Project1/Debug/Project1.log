@@ -1,0 +1,13 @@
+﻿  ADmodel.c
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have infected ability\SEIRDH(ACT）\Project1\ADmodel.c(8,11): error C2065: “err”: 未声明的标识符
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have infected ability\SEIRDH(ACT）\Project1\ADmodel.c(8,23): error C2065: “f”: 未声明的标识符
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have infected ability\SEIRDH(ACT）\Project1\ADmodel.c(8,23): warning C4047: “函数”:“FILE **”与“int *”的间接级别不同
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have infected ability\SEIRDH(ACT）\Project1\ADmodel.c(8,21): warning C4024: “fopen_s”: 形参和实参 1 的类型不同
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have infected ability\SEIRDH(ACT）\Project1\ADmodel.c(18,13): error C2065: “f”: 未声明的标识符
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have infected ability\SEIRDH(ACT）\Project1\ADmodel.c(18,13): warning C4047: “函数”:“FILE *const ”与“int”的间接级别不同
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have infected ability\SEIRDH(ACT）\Project1\ADmodel.c(18,12): warning C4024: “fscanf_s”: 形参和实参 1 的类型不同
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have infected ability\SEIRDH(ACT）\Project1\ADmodel.c(21,10): error C2065: “f”: 未声明的标识符
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have infected ability\SEIRDH(ACT）\Project1\ADmodel.c(21,10): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+E:\专业\博士汇报\SEIR（contact tracing）\论文最终版材料\论文最终版材料\source code\source code\ARTIFICIAL NETWORKS\Exposed individuals have infected ability\SEIRDH(ACT）\Project1\ADmodel.c(21,9): warning C4024: “fclose”: 形参和实参 1 的类型不同
+  main.c
+  正在生成代码...
